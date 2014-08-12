@@ -10,3 +10,4 @@ A list of must-watch lists
 - Python
     - [by primalpop](https://github.com/primalpop/python-must-watch)
     - [by s16h](https://github.com/s16h/py-must-watch)
+- [Rails](https://github.com/gerricchaplin/rails-must-watch)
