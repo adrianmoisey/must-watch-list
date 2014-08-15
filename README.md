@@ -3,6 +3,7 @@
 A list of must-watch lists
 
 - [CSS](https://github.com/AllThingsSmitty/must-watch-css)
+- [Django](https://github.com/rosarior/django-must-watch)
 - [Go](https://github.com/sauravtom/go-must-watch)
 - Javascript
     - [by AllThingsSmitty](https://github.com/AllThingsSmitty/must-watch-javascript)
