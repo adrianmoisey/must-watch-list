@@ -8,6 +8,7 @@ A list of must-watch lists
 - Javascript
     - [by AllThingsSmitty](https://github.com/AllThingsSmitty/must-watch-javascript)
     - [by bolshchikov](https://github.com/bolshchikov/js-must-watch)
+- [PHP](https://github.com/phptodayorg/php-must-watch)
 - Python
     - [by primalpop](https://github.com/primalpop/python-must-watch)
     - [by s16h](https://github.com/s16h/py-must-watch)
