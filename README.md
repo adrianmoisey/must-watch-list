@@ -13,4 +13,5 @@ A list of must-watch lists
     - [by primalpop](https://github.com/primalpop/python-must-watch)
     - [by s16h](https://github.com/s16h/py-must-watch)
 - [Rails](https://github.com/gerricchaplin/rails-must-watch)
+- [Scala](https://github.com/bodiam/scala-must-watch)
 - [Startup](https://github.com/gerricchaplin/startup-must-watch)
