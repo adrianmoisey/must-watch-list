@@ -15,3 +15,4 @@ A list of must-watch lists
 - [Rails](https://github.com/gerricchaplin/rails-must-watch)
 - [Scala](https://github.com/bodiam/scala-must-watch)
 - [Startup](https://github.com/gerricchaplin/startup-must-watch)
+- [Data science](https://github.com/kmonsoor/data-must-watch)
