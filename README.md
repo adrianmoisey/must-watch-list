@@ -3,7 +3,7 @@
 A list of must-watch lists
 - [Clojure](https://github.com/aenoble/clojure-must-watch)
 - [CSS](https://github.com/AllThingsSmitty/must-watch-css)
-- [Django](https://github.com/rosarior/django-must-watch)
+- [Django](https://gitlab.com/rosarior/django-must-watch)
 - [Go](https://github.com/sauravtom/go-must-watch)
 - [Haskell](https://github.com/hzlmn/haskell-must-watch)
 - Javascript
