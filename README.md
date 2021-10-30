@@ -17,4 +17,5 @@ A list of must-watch lists
 - [Scala](https://github.com/bodiam/scala-must-watch)
 - [Startup](https://github.com/gerricchaplin/startup-must-watch)
 - [Symfony](https://github.com/symfony-si/symfony-must-watch)
+- [Swift[(https://github.com/nemanjavlahovic/swift-must-watch)
 - [Data science](https://github.com/kmonsoor/data-must-watch)
